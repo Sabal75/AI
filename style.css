@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ .texts {
+    color: #fff;
+    text-align: left;
+    width: 100%;
+    background-color: rgb(68, 70, 84);
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+  }
